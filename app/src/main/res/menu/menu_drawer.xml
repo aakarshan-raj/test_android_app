@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/one"
+    android:checkable="true"
+    android:checked="false"
+    android:title="fragment1"
+    />
+    <item
+        android:checkable="true"
+        android:checked="false"
+        android:id="@+id/two"
+        android:title="fragment2"
+        />
+
+
+</menu>
